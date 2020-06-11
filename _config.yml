@@ -1,7 +1,7 @@
 # Site
-name: "www.herbfarm.shop"
-title: "혁이네 야생화 약초농장"
-description: "정식 홈페이지 런칭 전 임시 홈페이지"
+name: "혁이네 야생화 약초농원"
+title: "혁이네 야생화 약초농원"
+description: "혁이네 야생화 약초농원 신규 오픈!!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /herbfarm
