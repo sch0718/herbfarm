@@ -4,7 +4,7 @@ title: "혁이네 야생화 약초농장"
 description: "정식 홈페이지 런칭 전 임시 홈페이지"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /docs
+baseurl: /herbfarm
 # google_analytics: 'UA-xxxxxxxx-1'
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
