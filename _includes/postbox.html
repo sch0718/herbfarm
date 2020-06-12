@@ -24,6 +24,14 @@
                 {% include star_rating_postbox.html %}
                 </div>
                 {% endif %}
+                {% if post.price %}
+                <div class="mb-2 mt-2 font-weight-normal">
+                    <strong>{{ post.price }}</strong>
+                    {% if post.unit %}
+                    <small>{{ post.unit }}</small>
+                    {% endif %}
+                </div>
+                {% endif %}
             </h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
