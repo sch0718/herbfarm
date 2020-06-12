@@ -27,10 +27,10 @@ post_class: post-template
         {% endif %}
         </div>
         {% if page.price %}
-        <div>{{ page.price }}</div>
+        <div class="ml-1"><strong>{{ page.price }}</strong></div>
         {% endif %}
         {% if page.unit %}
-        <div>{{ page.unit }}</div>
+        <div class="ml-1"><small>{{ page.unit }}</small></div>
         {% endif %}
     </div>
     {% endif %}
