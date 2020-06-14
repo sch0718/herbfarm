@@ -15,7 +15,7 @@ email: sch0718@naver.com
 # Authors
 authors:
   sudden:
-    name: 신춘호
+    name: sudden
     display_name: 아들내미
     gravatar: a4766e65f5a72604bc64688f9e98be6c
     email: sch0718@naver.com
@@ -23,12 +23,12 @@ authors:
     twitter: 
     description: 
   father:
-    name: 김 혁
+    name: father
     display_name: 가을아빠
     # gravatar: e29b2d70cd2731578f8697aa7492e9bc
     avatar: "assets/images/father.jpg"
   mother:
-    name: 성경숙
+    name: mother
     display_name: 겨울엄마
     avatar: "assets/images/mother.jpg"
 
