@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -53,8 +53,9 @@ ga('send', 'pageview');
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="{{ site.baseurl }}/categories">카테고리</a></li>
         <li><a href="{{ site.baseurl }}/tags">Tags</a></li>
+        <!-- <li><a href="{{ site.baseurl }}/orders">주문</a></li> -->
         <li><a href="{{ site.baseurl }}/about">혁이네 야생화약초농원은...</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        <!-- <li><a href="{{ site.baseurl }}/contact">Contact</a></li> -->
     </ul>   
 </nav>
 
@@ -111,10 +112,14 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+            <div class="col-md-4 col-sm-12 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">    
+            <div class="col-md-4 col-sm-12 text-center">
+                <a href="https://www.youtube.com/channel/UC1K7W-i66BHkcxsik39Qwvg" target="_blank"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.instagram.com/hyuksherbfarm/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12 text-center text-lg-right">    
                 강원도 횡성군 갑천면 구방리 312
             </div>
         </div>
