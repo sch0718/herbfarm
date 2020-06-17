@@ -24,12 +24,12 @@ authors:
     description: 
   father:
     name: father
-    display_name: 가을아빠
+    display_name: 산사람
     # gravatar: e29b2d70cd2731578f8697aa7492e9bc
     avatar: "assets/images/father.jpg"
   mother:
     name: mother
-    display_name: 겨울엄마
+    display_name: 물망초
     avatar: "assets/images/mother.jpg"
 
 # Plugins
